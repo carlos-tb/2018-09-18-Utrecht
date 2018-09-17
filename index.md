@@ -201,7 +201,7 @@ eventbrite:  https://www.eventbrite.nl/e/tickets-good-practices-in-research-soft
 {% elsif site.carpentry == "lc" %}
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% elsif page.carpentry == "academy" %}
-<p>Ask your instructor about post-workshop Survey details.</p>
+<p>Please let us know about your experience by completing the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdIsO2ACTYc33eenHYG0aVz35O7lSIKxcov7T1BuzgMKFkUug/viewform?usp=pp_url"> post-workshop survey</a>.</p>
 {% endif %}
 
 <hr/>
